@@ -1,2 +1,4 @@
 # kadenz
-Hadoop/HIVE/HBase/Spark/Java/python
+Hadoop/Java
+MapReduce编程实现KNN算法
+MapReduce编程实现KNN分类器评价
